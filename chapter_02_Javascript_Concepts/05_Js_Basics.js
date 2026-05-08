@@ -17,3 +17,4 @@ console.log(name, _count, $price, item2, total_value);
 // var 2item = "bad";      // cannot start with a digit
 // var my-name = "bad";    // hyphen is not allowed
 // var function = 123;       // reserved keyword cannot be used as an identifier
+
