@@ -65,3 +65,4 @@
 - `Cmd + K Z` : Toggle Zen Mode
 - `Cmd + K V` : Open Markdown preview
 - `Cmd + Shift + V` : Open Markdown preview to the side
+<! -->
