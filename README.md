@@ -35,6 +35,22 @@ This repository contains JavaScript examples and practice files for learning Pla
 - 17_hoisting_fn.js - Function hoisting
 - 18_let_hoisting.js - let hoisting and Temporal Dead Zone
 - 19_let_hoisting_block.js - let hoisting in block scope
+- 20_let_const.js - let and const comparison
+- 21_Jr_QA.js - QA questions and answers
+
+### Chapter 05: Literals
+`chapter_05_Literal/` - Different types of literals in JavaScript
+- 22_Literal.js - Literal types overview
+- 23_null_undefined.js - Difference between null and undefined
+- 24_null.js - null keyword deep dive
+- 25_Literal.js - Literal value examples
+- 26_Literal_number_all.js - All number types (integer, float, exponential, hex, octal, binary, BigInt, special values)
+- 27_string.js - String literals
+- 28_Template_Literals.js - Template literals with examples
+- 29_Backtick_single_double.js - Comparison of backticks, single and double quotes
+
+### Chapter 06: Operators
+`chapter_06_Operator/` - JavaScript operators and operations
 
 ### Chapter 11: Arrays
 `chapter_11_Arrays/` - Array methods and operations

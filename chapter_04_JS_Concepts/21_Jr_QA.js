@@ -1,7 +1,10 @@
-console.log(API_END_APP_VWO_COM); // console.log(executionTime); // ReferenceError: executionTime is not defined
-console.log("rohan")
-if (true) {
+// console.log(API_END_APP_VWO_COM); // console.log(executionTime); // ReferenceError: executionTime is not defined
+// console.log("rohan")
+// if (true) {
 
-}
+// }
 
-const API_END_APP_VWO_COM = "https://app.vwo.com/login/api";
+// const API_END_APP_VWO_COM = "https://app.vwo.com/login/api";
+
+console.log( 5 != "5");  // Value 5, 5 ! that false, but type is different, so false
+console.log( 5 !== "5"); // Value 5, 5 ! that false, and type is different, so true
