@@ -194,6 +194,35 @@ This repository contains JavaScript examples and practice files for learning Pla
 - 142_IQ_right_pattern.js - IQ questions on 2D array patterns
 - testdata.csv - Sample test data for 2D array operations
 
+### Chapter 16: Callback Functions
+`chapter_16_callback_function/` - Callback patterns, asynchronous flow, and callback pyramid examples
+- 143_callback.js - Callback basics
+- 144_CB.js - Callback examples
+- 145_CB_fn.js - Callback functions in practice
+- 146_PW_CB.js - Playwright-style callback examples
+- 147_JS_CB.js - JavaScript callback patterns
+- 148_Sync_CB.js - Synchronous callbacks
+- 149_Async_CB.js - Asynchronous callbacks
+- 150_CB_Hell.js - Callback hell examples
+- 151_Hell_20_Steps.js - Long callback chains
+- 152_CB_Parameter.js - Callback parameters
+- 153_CB_Return.js - Callback return values
+
+### Chapter 17: Promises
+`chapter_17_promises/` - Promise creation, chaining, and async handling
+- 154_Promise.js - Basic promise example
+- 155_Promise_Real_API.js - Promise with real API-style flow
+- 156_Promise_Real_Api_2.js - Additional promise examples
+- 157_finally.js - Promise finally usage
+- 158_CB_Pyramid_Problem.js - Callback pyramid comparison
+- 159_Promise_All.js - Promise.all examples
+
+### Chapter 19: Playwright Basics
+`chapter_19_playwright_basics/` - Initial Playwright setup and basic project files
+- package.json - Project dependencies
+- package-lock.json - Lockfile for reproducible installs
+- de.pdf - Reference material
+
 ## Key Topics Covered
 
 - **Variables & Scope**: var, let, const with deep scoping rules
