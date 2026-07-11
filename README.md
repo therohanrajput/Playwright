@@ -235,13 +235,17 @@ This repository contains JavaScript examples and practice files for learning Pla
 - **Strings**: Methods, manipulation, case conversion, searching
 - **Objects**: Creation, destructuring, getters/setters, spread operator
 - **User Input**: Node.js readline and prompt-sync
+- **Callback Functions**: Synchronous & asynchronous callbacks, callback hell, callback parameters & return values
+- **Promises**: Promise creation, chaining, `.finally()`, `Promise.all()`, and real API-style flows
+- **Playwright Basics**: Initial Playwright project setup and configuration
 
 ## Notes
 
-- Files are organized by chapter and topic.
+- Files are organized by chapter and topic (19 chapters covering JavaScript fundamentals through Playwright automation).
 - Examples use plain JavaScript and focus on syntax, scoping, hoisting, and practical demonstrations.
 - `Vs_code_Shortcut_mac.md` contains useful VS Code shortcuts for macOS.
 - `javascript_stringcheatsheet.md` contains comprehensive string method references.
 - Chapter 04 includes detailed explanations of var/let/const differences including scope, re-declaration, re-assignment, hoisting, initialization requirements, and global object properties.
 - Each chapter progresses from basics to advanced concepts with practical examples and IQ questions.
 - Interview preparation questions are included in `interview.md`.
+- Practice tasks are available in the `00_Tasks/` directory.
