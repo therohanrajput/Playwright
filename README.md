@@ -216,6 +216,11 @@ This repository contains JavaScript examples and practice files for learning Pla
 - 157_finally.js - Promise finally usage
 - 158_CB_Pyramid_Problem.js - Callback pyramid comparison
 - 159_Promise_All.js - Promise.all examples
+- 160_Promise_IQ.js - Promise IQ questions (resolve, reject, chaining, Promise.all, Promise.allSettled)
+
+### Chapter 18: Async/Await
+`chapter_18_Async_Await/` - Async/await patterns and asynchronous JavaScript
+- *(Coming soon)*
 
 ### Chapter 19: Playwright Basics
 `chapter_19_playwright_basics/` - Initial Playwright setup and basic project files
@@ -236,7 +241,8 @@ This repository contains JavaScript examples and practice files for learning Pla
 - **Objects**: Creation, destructuring, getters/setters, spread operator
 - **User Input**: Node.js readline and prompt-sync
 - **Callback Functions**: Synchronous & asynchronous callbacks, callback hell, callback parameters & return values
-- **Promises**: Promise creation, chaining, `.finally()`, `Promise.all()`, and real API-style flows
+- **Promises**: Promise creation, chaining, `.finally()`, `Promise.all()`, `Promise.allSettled()`, and real API-style flows
+- **Async/Await**: Async/await patterns *(coming soon)*
 - **Playwright Basics**: Initial Playwright project setup and configuration
 
 ## Notes
