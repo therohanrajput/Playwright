@@ -220,13 +220,18 @@ This repository contains JavaScript examples and practice files for learning Pla
 
 ### Chapter 18: Async/Await
 `chapter_18_Async_Await/` - Async/await patterns and asynchronous JavaScript
-- *(Coming soon)*
+- 161_Async.js - Basic async/await with try-catch-finally
+- 162_Async_p2.js - Async functions returning promises
+- 163_PYODOM.js - Pyramid of Doom solved with async/await
+- 164_Async_Ex.js - Async/await exercises and Playwright-style examples
+- 165_A_Seq.js - Sequential async execution with timing
+- 166_Async_Parallel.js - Parallel execution with Promise.allSettled
+- 167_IQ.js - Async/await interview questions
 
 ### Chapter 19: Playwright Basics
 `chapter_19_playwright_basics/` - Initial Playwright setup and basic project files
 - package.json - Project dependencies
 - package-lock.json - Lockfile for reproducible installs
-- de.pdf - Reference material
 
 ## Key Topics Covered
 
@@ -242,7 +247,7 @@ This repository contains JavaScript examples and practice files for learning Pla
 - **User Input**: Node.js readline and prompt-sync
 - **Callback Functions**: Synchronous & asynchronous callbacks, callback hell, callback parameters & return values
 - **Promises**: Promise creation, chaining, `.finally()`, `Promise.all()`, `Promise.allSettled()`, and real API-style flows
-- **Async/Await**: Async/await patterns *(coming soon)*
+- **Async/Await**: Async/await patterns, sequential vs parallel execution, try-catch-finally
 - **Playwright Basics**: Initial Playwright project setup and configuration
 
 ## Notes
