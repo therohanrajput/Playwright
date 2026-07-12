@@ -229,9 +229,12 @@ This repository contains JavaScript examples and practice files for learning Pla
 - 167_IQ.js - Async/await interview questions
 
 ### Chapter 19: Playwright Basics
-`chapter_19_playwright_basics/` - Initial Playwright setup and basic project files
+`chapter_19_playwright_basics/` - Playwright project setup, configuration, and first tests
 - package.json - Project dependencies
 - package-lock.json - Lockfile for reproducible installs
+- playwright.config.ts - Playwright test configuration (Chromium-only setup)
+- tests/example.spec.ts - Example tests (title check, navigation)
+- tests/tta-cart.spec.ts - TTA Cart login test with assertions
 
 ## Key Topics Covered
 
@@ -248,7 +251,7 @@ This repository contains JavaScript examples and practice files for learning Pla
 - **Callback Functions**: Synchronous & asynchronous callbacks, callback hell, callback parameters & return values
 - **Promises**: Promise creation, chaining, `.finally()`, `Promise.all()`, `Promise.allSettled()`, and real API-style flows
 - **Async/Await**: Async/await patterns, sequential vs parallel execution, try-catch-finally
-- **Playwright Basics**: Initial Playwright project setup and configuration
+- **Playwright Basics**: Project setup, configuration, codegen, test writing with locators and assertions
 
 ## Notes
 
